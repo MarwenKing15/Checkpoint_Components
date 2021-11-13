@@ -3,10 +3,17 @@ import ReactDOM from 'react-dom';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
+// import ProfilePhoto from './Component/Profile/ProfilePhoto';
+// import FullName from './Component/Profile/FullName';
+// import Address from './Component/Profile/Address';
+
 
 ReactDOM.render(
   <React.StrictMode>
-    <App />
+    {/* <ProfilePhoto/>
+    <FullName/>
+    <Address/> */}
+    <App/>
   </React.StrictMode>,
   document.getElementById('root')
 );
