@@ -1,10 +1,7 @@
 import './App.css';
 import {  Card, Col } from 'react-bootstrap';
 import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
-import {faInstagram } from '@fortawesome/free-brands-svg-icons';
-import {faLinkedinIn } from '@fortawesome/free-brands-svg-icons';
-import {faTwitter } from '@fortawesome/free-brands-svg-icons';
-import {faGithub } from '@fortawesome/free-brands-svg-icons';
+import {faInstagram, faLinkedinIn, faTwitter, faGithub} from '@fortawesome/free-brands-svg-icons';
 import 'bootstrap/dist/css/bootstrap.min.css';
 import ProfilePhoto from './Component/Profile/ProfilePhoto';
 import FullName from './Component/Profile/FullName';
