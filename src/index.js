@@ -10,9 +10,6 @@ import reportWebVitals from './reportWebVitals';
 
 ReactDOM.render(
   <React.StrictMode>
-    {/* <ProfilePhoto/>
-    <FullName/>
-    <Address/> */}
     <App/>
   </React.StrictMode>,
   document.getElementById('root')
